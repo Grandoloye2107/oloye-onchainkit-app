@@ -37,3 +37,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 To learn more about OnchainKit, see our [documentation](https://docs.base.org/onchainkit).
 
 To learn more about Next.js, see the [Next.js documentation](https://nextjs.org/docs).
+## Oloye OnchainKit App
+
+A Base-native wallet app built with OnchainKit. Connects wallets, displays balances, and shows NFTs on Base.
