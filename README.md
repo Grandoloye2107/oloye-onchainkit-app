@@ -40,3 +40,9 @@ To learn more about Next.js, see the [Next.js documentation](https://nextjs.org/
 ## Oloye OnchainKit App
 
 A Base-native wallet app built with OnchainKit. Connects wallets, displays balances, and shows NFTs on Base.
+## Tech Stack
+
+- Next.js
+- OnchainKit by Coinbase
+- Base (L2)
+- wagmi + viem
