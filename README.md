@@ -56,3 +56,4 @@ Supports ENS name display if available
 Displays Base mainnet or testnet badge
 `Displays USDC balance on Base network.`
 `Shows USD value of ETH using live price feed.`
+`Shows transaction count for connected wallet.`
