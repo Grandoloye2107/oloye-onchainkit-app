@@ -60,3 +60,4 @@ Shows transaction count for connected wallet.
 WalletCard component accepts any children as props.
 Supports Base name service (Basenames) lookup.
 Dependencies updated to latest stable versions.
+Fetches NFTs for connected wallet via Alchemy API.
