@@ -7,6 +7,5 @@ export default function TokenList() {
     </ul>
   );
 }
-```
-```
-`// hover styles` comment at top.
+// hover styles` comment at top.
+// hover and active states` comment.
