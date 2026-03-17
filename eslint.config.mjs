@@ -1,4 +1,4 @@
-import { dirname } from "path";
+// ESLint config for oloye-onchainkit-app import { dirname } from "path";
 import { fileURLToPath } from "url";
 import { FlatCompat } from "@eslint/eslintrc";
 
