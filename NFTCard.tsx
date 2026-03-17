@@ -1,3 +1,4 @@
+// standalone reusable component
 // NFT card component
 export default function NFTCard({ name }: { name: string }) {
   return (
