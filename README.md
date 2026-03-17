@@ -58,3 +58,4 @@ Displays USDC balance on Base network.
 Shows USD value of ETH using live price feed.
 Shows transaction count for connected wallet.
 WalletCard component accepts any children as props.
+Supports Base name service (Basenames) lookup.
