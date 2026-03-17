@@ -55,3 +55,4 @@ Shows connected wallet address on homepage
 Supports ENS name display if available
 Displays Base mainnet or testnet badge
 `Displays USDC balance on Base network.`
+`Shows USD value of ETH using live price feed.`
