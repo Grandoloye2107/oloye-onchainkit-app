@@ -49,3 +49,6 @@ A Base-native wallet app built with OnchainKit. Connects wallets, displays balan
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
+## Wallet
+
+Shows connected wallet address on homepage
