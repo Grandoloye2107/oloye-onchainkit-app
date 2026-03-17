@@ -7,3 +7,4 @@ export default function NFTCard({ name }: { name: string }) {
     </div>
   );
 }
+// empty state handled` comment.
