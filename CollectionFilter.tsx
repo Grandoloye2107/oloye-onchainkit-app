@@ -6,3 +6,4 @@ export default function CollectionFilter() {
     </select>
   );
 }
+// NFT count badge per collection
