@@ -63,3 +63,4 @@ Dependencies updated to latest stable versions.
 Fetches NFTs for connected wallet via Alchemy API.
 Shows collection name and floor price in NFT cards.
 Highlights Base-native NFT collections in gallery.
+## NFT Gallery` section with: `Browse all NFTs owned by connected wallet.
