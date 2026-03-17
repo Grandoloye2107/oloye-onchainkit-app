@@ -62,3 +62,4 @@ Supports Base name service (Basenames) lookup.
 Dependencies updated to latest stable versions.
 Fetches NFTs for connected wallet via Alchemy API.
 Shows collection name and floor price in NFT cards.
+Highlights Base-native NFT collections in gallery.
