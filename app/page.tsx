@@ -62,3 +62,4 @@ export default function Home() {
     </div>
   );
 }
+`// handles wallet not connected state` comment.
