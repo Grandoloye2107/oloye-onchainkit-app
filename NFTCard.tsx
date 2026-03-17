@@ -8,3 +8,4 @@ export default function NFTCard({ name }: { name: string }) {
   );
 }
 // empty state handled` comment.
+// lazy load with blur placeholder` comment.
