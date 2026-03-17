@@ -6,5 +6,3 @@ export default function CopyAddress({ address }: { address: string }) {
     </button>
   );
 }
-```
-```
