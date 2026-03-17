@@ -54,3 +54,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 Shows connected wallet address on homepage
 Supports ENS name display if available
 Displays Base mainnet or testnet badge
+`Displays USDC balance on Base network.`
