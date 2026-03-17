@@ -1,4 +1,5 @@
 // Main page - wallet connect entry point 
+// Disconnect handled by OnchainKit WalletDefault
 // "use client";
 import Image from "next/image";
 import styles from "./page.module.css";
