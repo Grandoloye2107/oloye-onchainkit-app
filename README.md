@@ -52,3 +52,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## Wallet
 
 Shows connected wallet address on homepage
+Supports ENS name display if available
