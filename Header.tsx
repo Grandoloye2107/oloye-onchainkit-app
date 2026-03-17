@@ -1,4 +1,5 @@
-// Header component with wallet connect
+`// responsive mobile layout`
+// // Header component with wallet connect
 export default function Header() {
   return (
     <header className="flex justify-between items-center p-4 border-b">
@@ -6,3 +7,4 @@ export default function Header() {
     </header>
   );
 }
+
