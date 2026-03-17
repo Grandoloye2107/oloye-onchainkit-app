@@ -46,3 +46,6 @@ A Base-native wallet app built with OnchainKit. Connects wallets, displays balan
 - OnchainKit by Coinbase
 - Base (L2)
 - wagmi + viem
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
