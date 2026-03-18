@@ -7,3 +7,4 @@ export default function TxRow({ hash, type }: { hash: string; type: string }) {
     </li>
   );
 }
+// links to Basescan` comment.
