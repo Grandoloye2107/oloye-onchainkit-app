@@ -8,3 +8,4 @@ export default function TxRow({ hash, type }: { hash: string; type: string }) {
   );
 }
 // links to Basescan
+// hover and active styles
