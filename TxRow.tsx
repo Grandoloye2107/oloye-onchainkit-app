@@ -11,3 +11,4 @@ export default function TxRow({ hash, type }: { hash: string; type: string }) {
 // hover and active styles
 // gas fee display
 // extracted from TxList for reuse
+// handles contract address destinations
