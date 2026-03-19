@@ -74,3 +74,4 @@ Includes og:image meta tag for social sharing.
 Analytics events tracked for page views.
 ## Screenshots
 Screenshots coming soon.
+## Deployment — Deploy to Vercel with one click.
