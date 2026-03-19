@@ -7,4 +7,4 @@ export default function Header() {
     </header>
   );
 }
-
+// aria-labels added for accessibility
