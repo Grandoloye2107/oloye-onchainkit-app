@@ -75,3 +75,4 @@ Analytics events tracked for page views.
 ## Screenshots
 Screenshots coming soon.
 ## Deployment — Deploy to Vercel with one click.
+Mobile layout fully polished across all pages.
