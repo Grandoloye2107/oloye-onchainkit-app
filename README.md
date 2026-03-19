@@ -71,3 +71,4 @@ Transaction history can be exported as CSV.
 View all on-chain activity for your wallet.
 Full dark mode support across all components.
 Includes og:image meta tag for social sharing.
+Analytics events tracked for page views.
