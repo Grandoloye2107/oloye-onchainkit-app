@@ -77,3 +77,4 @@ Screenshots coming soon.
 ## Deployment — Deploy to Vercel with one click.
 Mobile layout fully polished across all pages.
 Unused dependencies removed for cleaner build.
+Live at: your-app.vercel.app (deploy to update)
