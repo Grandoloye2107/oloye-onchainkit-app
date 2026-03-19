@@ -63,3 +63,4 @@ export default function Home() {
   );
 }
 // handles wallet not connected state` comment.
+// lazy loaded route
