@@ -1,0 +1,7 @@
+{
+  "name": "Oloye OnchainKit App",
+  "short_name": "OloyeApp",
+  "theme_color": "#0052FF",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
