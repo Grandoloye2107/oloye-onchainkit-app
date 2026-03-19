@@ -69,3 +69,4 @@ Fetches recent transactions for connected wallet on Base
 Transaction history can be exported as CSV.
 ## Transaction History
 View all on-chain activity for your wallet.
+Full dark mode support across all components.
