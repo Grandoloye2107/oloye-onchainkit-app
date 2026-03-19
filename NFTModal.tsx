@@ -5,3 +5,4 @@ export default function NFTModal({ open }: { open: boolean }) {
 }
 // traits display section` 
 // fade-in animation on open
+// keyboard navigation: escape closes modal
