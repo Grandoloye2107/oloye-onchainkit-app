@@ -6,3 +6,4 @@ export function formatEth(value: number): string {
   return value.toFixed(6) + " ETH";
 }
 // memoized with useMemo in hooks
+// strict mode compatible
